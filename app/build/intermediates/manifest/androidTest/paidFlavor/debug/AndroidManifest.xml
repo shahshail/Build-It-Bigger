@@ -3,7 +3,7 @@
     package="com.udacity.gradle.builditbigger.paid.test" >
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="25"
         android:targetSdkVersion="25" />
 
     <instrumentation
