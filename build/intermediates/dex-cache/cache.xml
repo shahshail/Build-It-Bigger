@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="303d4293a5815151742379b067350614c4b53e39">
+        <dex dex="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/pre-dexed/paidFlavor/debug/backend-android-endpoints_d59a8cbc5d6be52ae7530526e1f8c306c77195a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eefb502dae8b8b520402fafe8e973e1218615232">
+        <dex dex="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/pre-dexed/paidFlavor/debug/classes_d977d70567dfdba59cb9a4e6c8b939990218de0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/joketellerlibrary/build/libs/joketellerlibrary.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9dcbc598bf7b984eb7352908fdae49297048898">
+        <dex dex="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/pre-dexed/paidFlavor/debug/joketellerlibrary_fe097699becc19111251b91e5ea24a44a18fa288.jar" />
+    </item>
+
+</items>
