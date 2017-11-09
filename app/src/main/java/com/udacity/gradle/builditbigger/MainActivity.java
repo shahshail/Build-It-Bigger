@@ -10,7 +10,7 @@ import android.widget.ProgressBar;
 
 public class MainActivity extends AppCompatActivity {
 
-    private ProgressBar mProgressbar;
+    private ProgressBar mProgressBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
     }
     @SuppressWarnings("unchecked")
     public void tellJoke(View view) {
-        ProgressBar progressBar = (ProgressBar)findViewById(R.id.joke_loader_progresbar);
-        new EndpointsAsyncTask(this,progressBar).execute();
+         mProgressBar = (ProgressBar)findViewById(R.id.joke_loader_progresbar);
+        new EndpointsAsyncTask(this,mProgressBar).execute();
     }
 
 

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">jokeAndoidLibrary</string>
+    <string name="data_show">Data will be shown here...</string>
 </resources>

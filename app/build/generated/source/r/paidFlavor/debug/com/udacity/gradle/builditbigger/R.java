@@ -2401,18 +2401,19 @@ containing a value of this type.
         public static final int common_google_signin_btn_text_light_focused=0x7f020065;
         public static final int common_google_signin_btn_text_light_normal=0x7f020066;
         public static final int common_google_signin_btn_text_light_pressed=0x7f020067;
-        public static final int notification_action_background=0x7f020068;
-        public static final int notification_bg=0x7f020069;
-        public static final int notification_bg_low=0x7f02006a;
-        public static final int notification_bg_low_normal=0x7f02006b;
-        public static final int notification_bg_low_pressed=0x7f02006c;
-        public static final int notification_bg_normal=0x7f02006d;
-        public static final int notification_bg_normal_pressed=0x7f02006e;
-        public static final int notification_icon_background=0x7f02006f;
-        public static final int notification_template_icon_bg=0x7f020072;
-        public static final int notification_template_icon_low_bg=0x7f020073;
-        public static final int notification_tile_bg=0x7f020070;
-        public static final int notify_panel_notification_icon_bg=0x7f020071;
+        public static final int ic_laugh=0x7f020068;
+        public static final int notification_action_background=0x7f020069;
+        public static final int notification_bg=0x7f02006a;
+        public static final int notification_bg_low=0x7f02006b;
+        public static final int notification_bg_low_normal=0x7f02006c;
+        public static final int notification_bg_low_pressed=0x7f02006d;
+        public static final int notification_bg_normal=0x7f02006e;
+        public static final int notification_bg_normal_pressed=0x7f02006f;
+        public static final int notification_icon_background=0x7f020070;
+        public static final int notification_template_icon_bg=0x7f020073;
+        public static final int notification_template_icon_low_bg=0x7f020074;
+        public static final int notification_tile_bg=0x7f020071;
+        public static final int notify_panel_notification_icon_bg=0x7f020072;
     }
     public static final class id {
         public static final int action0=0x7f0b006e;
@@ -2436,7 +2437,6 @@ containing a value of this type.
         public static final int action_text=0x7f0b006d;
         public static final int actions=0x7f0b007a;
         public static final int activity_chooser_view_content=0x7f0b0037;
-        public static final int adView=0x7f0b006a;
         public static final int add=0x7f0b001b;
         public static final int adjust_height=0x7f0b0025;
         public static final int adjust_width=0x7f0b0026;
@@ -2447,6 +2447,7 @@ containing a value of this type.
         public static final int basic=0x7f0b000f;
         public static final int beginning=0x7f0b0022;
         public static final int bottom=0x7f0b0032;
+        public static final int button2=0x7f0b0069;
         public static final int buttonPanel=0x7f0b003e;
         public static final int cancel_action=0x7f0b006f;
         public static final int chains=0x7f0b0010;
@@ -2475,7 +2476,7 @@ containing a value of this type.
         public static final int image=0x7f0b0039;
         public static final int info=0x7f0b0078;
         public static final int instructions_text_view=0x7f0b0068;
-        public static final int joke_loader_progresbar=0x7f0b0069;
+        public static final int joke_loader_progresbar=0x7f0b006a;
         public static final int light=0x7f0b0031;
         public static final int line1=0x7f0b007d;
         public static final int line3=0x7f0b007f;
@@ -2667,12 +2668,13 @@ containing a value of this type.
         public static final int common_signin_button_text_long=0x7f060024;
         public static final int create_calendar_message=0x7f060025;
         public static final int create_calendar_title=0x7f060026;
+        public static final int data_show=0x7f060040;
         public static final int debug_menu_ad_information=0x7f060027;
         public static final int debug_menu_creative_preview=0x7f060028;
         public static final int debug_menu_title=0x7f060029;
         public static final int debug_menu_troubleshooting=0x7f06002a;
         public static final int decline=0x7f06002b;
-        public static final int instructions=0x7f060040;
+        public static final int instructions=0x7f060041;
         public static final int search_menu_title=0x7f06002c;
         public static final int status_bar_notification_info_overflow=0x7f06002d;
         public static final int store_picture_message=0x7f06002e;
@@ -2683,8 +2685,6 @@ containing a value of this type.
         public static final int AlertDialog_AppCompat_Light=0x7f0800a0;
         public static final int Animation_AppCompat_Dialog=0x7f0800a1;
         public static final int Animation_AppCompat_DropDownUp=0x7f0800a2;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f0800a3;
         public static final int Base_AlertDialog_AppCompat=0x7f0800a4;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0800a5;

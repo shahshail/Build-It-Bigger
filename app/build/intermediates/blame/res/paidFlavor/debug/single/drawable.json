@@ -4,6 +4,10 @@
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
+        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/ic_laugh.png",
+        "source": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/build/intermediates/bundles/default/res/drawable/ic_laugh.png"
+    },
+    {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_dialog_material_background.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_dialog_material_background.xml"
     },
