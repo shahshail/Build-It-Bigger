@@ -1,6 +1,6 @@
 {
  "kind": "discovery#restDescription",
- "etag": "\"RnkXbyw9us4_w3H-FU6An0C4oYs/ppcp9rwFpSDgZFyvjrmPAaQ-ino\"",
+ "etag": "\"RnkXbyw9us4_w3H-FU6An0C4oYs/oodEPWZCaEibvkbQ52axUAX-8H0\"",
  "discoveryVersion": "v1",
  "id": "myApi:v1",
  "name": "myApi",
@@ -77,6 +77,9 @@
    "id": "MyBean",
    "type": "object",
    "properties": {
+    "data": {
+     "type": "string"
+    },
     "joke": {
      "type": "string"
     }
@@ -88,10 +91,6 @@
    "id": "myApi.giveAJoke",
    "path": "giveAJoke",
    "httpMethod": "POST",
-   "request": {
-    "$ref": "MyBean",
-    "parameterName": "resource"
-   },
    "response": {
     "$ref": "MyBean"
    },

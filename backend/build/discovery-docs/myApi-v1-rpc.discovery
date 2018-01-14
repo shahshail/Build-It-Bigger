@@ -1,6 +1,6 @@
 {
  "kind": "discovery#rpcDescription",
- "etag": "\"RnkXbyw9us4_w3H-FU6An0C4oYs/ppcp9rwFpSDgZFyvjrmPAaQ-ino\"",
+ "etag": "\"RnkXbyw9us4_w3H-FU6An0C4oYs/oodEPWZCaEibvkbQ52axUAX-8H0\"",
  "discoveryVersion": "v1",
  "id": "myApi:v1",
  "name": "myApi",
@@ -75,6 +75,9 @@
    "id": "MyBean",
    "type": "object",
    "properties": {
+    "data": {
+     "type": "string"
+    },
     "joke": {
      "type": "string"
     }
@@ -84,14 +87,6 @@
  "methods": {
   "myApi.giveAJoke": {
    "id": "myApi.giveAJoke",
-   "parameters": {
-    "resource": {
-     "$ref": "MyBean"
-    }
-   },
-   "parameterOrder": [
-    "resource"
-   ],
    "returns": {
     "$ref": "MyBean"
    },

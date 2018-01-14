@@ -1,23 +1,21 @@
 package com.example.shailshah.myapplication.backend;
 
-import com.example.TellAJoke;
-
 /**
  * The object model for the data we are sending through endpoints
  */
 public class MyBean {
 
-    private TellAJoke tellAJoke;
+    private String data;
 
-   public MyBean()
-   {
-       tellAJoke = new TellAJoke();
-
-   }
 
    public String getJoke()
    {
-       return tellAJoke.getDifferentJoke();
+       return data;
 
    }
+
+    public void setData(String data) {
+        this.data = data;
+
+    }
 }

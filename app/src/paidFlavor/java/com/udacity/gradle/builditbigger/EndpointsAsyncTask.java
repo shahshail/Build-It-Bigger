@@ -9,9 +9,10 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.example.shailshah.myapplication.backend.myApi.MyApi;
-import com.example.shailshah.myapplication.backend.myApi.model.MyBean;
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
+import com.google.api.client.googleapis.services.AbstractGoogleClientRequest;
+import com.google.api.client.googleapis.services.GoogleClientRequestInitializer;
 
 import java.io.IOException;
 
@@ -45,11 +46,17 @@ class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> 
         if (jokeApiService == null) {
             MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(), null)
-                    .setRootUrl("http://10.0.2.2:8080/_ah/api/");
+                    .setRootUrl("http://10.0.2.2:8080/_ah/api/").setGoogleClientRequestInitializer(new GoogleClientRequestInitializer() {
+                        @Override
+                        public void initialize(AbstractGoogleClientRequest<?> abstractGoogleClientRequest) throws IOException {
+                            abstractGoogleClientRequest.setDisableGZipContent(true);
+                        }
+                    });
             jokeApiService = builder.build();
         }
         try {
-            return jokeApiService.giveAJoke(new MyBean()).execute().getJoke();
+            String name = jokeApiService.giveAJoke().execute().getJoke();
+            return name;
         } catch (IOException e) {
             return e.getMessage();
         }

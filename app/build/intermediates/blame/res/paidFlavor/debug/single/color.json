@@ -4,10 +4,6 @@
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/color/abc_btn_colored_text_material.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/color/abc_btn_colored_text_material.xml"
     },
@@ -18,10 +14,6 @@
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/color/abc_tint_switch_track.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/color/abc_tint_default.xml",

@@ -7,7 +7,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="303d4293a5815151742379b067350614c4b53e39">
+        sha1="4467da27665ca758b759c934b40965fc949e2675">
         <dex dex="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/pre-dexed/paidFlavor/debug/backend-android-endpoints_d59a8cbc5d6be52ae7530526e1f8c306c77195a0.jar" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="b9dcbc598bf7b984eb7352908fdae49297048898">
+        sha1="b8ef79afd5405a58343413a5feda9d9d9efd404f">
         <dex dex="/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/pre-dexed/paidFlavor/debug/joketellerlibrary_fe097699becc19111251b91e5ea24a44a18fa288.jar" />
     </item>
 

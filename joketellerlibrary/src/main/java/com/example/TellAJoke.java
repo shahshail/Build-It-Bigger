@@ -9,7 +9,6 @@ import java.util.Random;
 public class TellAJoke {
 
     private String[] jokes;
-    private Random randomJoke;
 
     public TellAJoke() {
        jokes = new String[]{
@@ -25,7 +24,7 @@ public class TellAJoke {
                "Q: How does a network administrator nerd greet people who come to his house? \n" +
                        "A: Welcome to 127.0.0.1 "
        };
-        randomJoke = new Random();
+
     }
 
     public String[] jokesMethod() {
@@ -33,6 +32,7 @@ public class TellAJoke {
     }
 
     public String getDifferentJoke() {
+        Random randomJoke = new Random();
         return jokes[randomJoke.nextInt(jokes.length)];
     }
 

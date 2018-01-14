@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 14 00:29:36 CST 2018
+0.baseType=DIRECTORY
+0.base=/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/transforms/dexMerger/freeFlavor/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

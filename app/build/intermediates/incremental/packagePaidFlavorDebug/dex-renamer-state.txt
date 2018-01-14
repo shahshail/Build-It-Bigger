@@ -1,0 +1,4 @@
+#Fri Nov 10 12:45:21 CST 2017
+base.0=/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/transforms/dex/paidFlavor/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/transforms/dex/paidFlavor/debug/folders/1000/1f/main/classes.dex

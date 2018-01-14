@@ -6,6 +6,7 @@
 
 package com.example.shailshah.myapplication.backend;
 
+import com.example.TellAJoke;
 import com.google.api.server.spi.config.Api;
 import com.google.api.server.spi.config.ApiMethod;
 import com.google.api.server.spi.config.ApiNamespace;
@@ -28,8 +29,11 @@ public class MyEndpoint {
      * A simple endpoint method that takes a name and says Hi back
      */
     @ApiMethod(name = "giveAJoke")
-    public MyBean giveAJoke(MyBean myBean) {
-        return myBean;
+    public MyBean giveAJoke() {
+        TellAJoke obj = new TellAJoke();
+        MyBean joke = new MyBean();
+        joke.setData(obj.getDifferentJoke());
+        return joke;
     }
 
 }

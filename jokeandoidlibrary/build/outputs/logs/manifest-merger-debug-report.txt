@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:1-12:12
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:5:5-10:19
+	android:supportsRtl
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:6:9-35
+activity#app.google.shahshail.jokeandoidlibrary.DisplayJokeActivity
+ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:9:9-66
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml:9:19-54
+uses-sdk
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/shailshah/Documents/Android/Projects/Build-It-Bigger/jokeandoidlibrary/src/main/AndroidManifest.xml

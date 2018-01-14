@@ -32,20 +32,8 @@
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_switch_thumb_material.xml",
@@ -60,16 +48,8 @@
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_text_cursor_material.xml",
@@ -104,10 +84,6 @@
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_vector_test.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_vector_test.xml"
     },
@@ -126,10 +102,6 @@
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/notification_bg.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_ic_search_api_material.xml",
@@ -170,10 +142,6 @@
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/shailshah/.android/build-cache/aeae6ad58d5dff6b021249d55552646b5585640c/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/shailshah/.android/build-cache/12c1022337d9eff4591c59edef1ff700112d4359/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/Build-It-Bigger/app/build/intermediates/res/merged/paidFlavor/debug/drawable/abc_spinner_textfield_background_material.xml",
