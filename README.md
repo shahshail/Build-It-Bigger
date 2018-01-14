@@ -25,10 +25,10 @@ Advantage of using this app is we can use Google Cloud Endpoints AppEngine with 
 For this app GCE runs on localhost 8080 port. and uses API version "v-1"
 
 ### GCE Logs
-![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/gec.png)
+![atp txt](https://github.com/shahshail/Build-It-Bigger/tree/master/app/Screenshots/gec.png)
 
 ### Abstract Module startup Page
-![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/gec_page.png)
+![atp txt](https://github.com/shahshail/Build-It-Bigger/tree/master/app/Screenshots/gec_page.png)
 
 ## Getting Started
 * Clone the repository :
@@ -39,16 +39,16 @@ For this app GCE runs on localhost 8080 port. and uses API version "v-1"
 ## Flavors 
 - This app contains two Flavors Paid and Free.
 - In Paid flavor the adMob ad will be hidden and it will show in free version.
-![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/flavors.png)
+![atp txt](https://github.com/shahshail/Build-It-Bigger/tree/master/app/Screenshots/flavors.png)
 
 ## Screenshots
 
 ### Free Version HomeScreen
-![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/free.png)
+![atp txt](https://github.com/shahshail/Build-It-Bigger/tree/master/app/Screenshots/free.png)
 
 ### Paid Version HomeScreen
-![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/paid.png)
+![atp txt](https://github.com/shahshail/Build-It-Bigger/tree/master/app/Screenshots/paid.png)
 
 ### Joke Screen
-![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/joke1.png)
+![atp txt](https://github.com/shahshail/Build-It-Bigger/tree/master/app/Screenshots/joke1.png)
 
