@@ -28,7 +28,7 @@ For this app GCE runs on localhost 8080 port. and uses API version "v-1"
 ![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/gec.png)
 
 ### Abstract Module startup Page
-![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/gec_page.png)
+![atp txt](https://github.com/shahshail/Build-It-Bigger/blob/master/Screenshots/gce_page.png)
 
 ## Getting Started
 * Clone the repository :
